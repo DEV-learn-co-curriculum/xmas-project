@@ -1,7 +1,7 @@
 project:
   review_criteria:
-    - make origami
+    - egg nogz
     - ornamentz
+    - make origami
     - get gifts
     - buy a tree
-    - egg nogz
