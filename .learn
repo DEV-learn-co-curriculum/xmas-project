@@ -1,2 +1,4 @@
-project: true
-
+project:
+  criteria:
+    - get Gifts
+    - make Cookies foR sAnta
